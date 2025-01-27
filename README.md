@@ -3,12 +3,12 @@ We learn about kubernetes, Containerization, and yaml specifically to deploy mul
 
 For voting-app project
 
-Apply the changes using below commands
+**Apply the changes using below commands**
 
-Navigate inside Deployment folder
+- Navigate inside Deployment folder
 
 kubectl apply -f .
 
-Navigate inside Service folder
+- Navigate inside Service folder
 
 kubectl apply -f .
